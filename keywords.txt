@@ -1,0 +1,39 @@
+  
+#######################################
+# Syntax Coloring Map For 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+LED	KEYWORD1
+AlashLEDMatrix8x8 KEYWORD1
+#######################################
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+AlashLEDMatrix8x8   KEYWORD2
+writePixel	KEYWORD2
+drawPixel	KEYWORD2
+endWrite KEYWORD2
+setManualDisplayRefresh	KEYWORD2
+setEnabled	KEYWORD2
+setPixel	KEYWORD2
+getPixel	KEYWORD2
+setColumn KEYWORD2
+getSegments	KEYWORD2
+setIntensity	KEYWORD2
+getFrameBuffer	KEYWORD2
+setScanLimit	KEYWORD2
+setDecode	KEYWORD2
+setDigit	KEYWORD2
+display	KEYWORD2
+displayRow	KEYWORD2
+clear	KEYWORD2
+scroll	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
